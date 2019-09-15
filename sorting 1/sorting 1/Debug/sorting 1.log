@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Ilya\Desktop\pro-119\sorting 1\sorting 1\Source.cpp(23,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sorting 1.vcxproj -> C:\Users\Ilya\Desktop\pro-119\sorting 1\Debug\sorting 1.exe

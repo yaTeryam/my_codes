@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\programms\codes\task_5\task_5\task_5\main.cpp(15,9): warning C4477:  "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+C:\programms\codes\task_5\task_5\task_5\main.cpp(15,9): message :  рекомендуется использовать "%lld" в строке форматирования
+C:\programms\codes\task_5\task_5\task_5\main.cpp(15,9): message :  рекомендуется использовать "%I64d" в строке форматирования
+C:\programms\codes\task_5\task_5\task_5\main.cpp(56,9): warning C4477:  "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+C:\programms\codes\task_5\task_5\task_5\main.cpp(56,9): message :  рекомендуется использовать "%lld" в строке форматирования
+C:\programms\codes\task_5\task_5\task_5\main.cpp(56,9): message :  рекомендуется использовать "%I64d" в строке форматирования
+C:\programms\codes\task_5\task_5\task_5\main.cpp(99,9): warning C4477:  "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+C:\programms\codes\task_5\task_5\task_5\main.cpp(99,9): message :  рекомендуется использовать "%lld" в строке форматирования
+C:\programms\codes\task_5\task_5\task_5\main.cpp(99,9): message :  рекомендуется использовать "%I64d" в строке форматирования
+  task_5.vcxproj -> C:\programms\codes\task_5\task_5\Debug\task_5.exe

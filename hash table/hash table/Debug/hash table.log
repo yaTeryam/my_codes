@@ -1,0 +1,3 @@
+﻿  hash.cpp
+C:\programms\codes\hash table\hash table\hash.cpp(8,18): warning C4244:  инициализация: преобразование "double" в "long", возможна потеря данных
+  hash table.vcxproj -> C:\programms\codes\hash table\Debug\hash table.exe
