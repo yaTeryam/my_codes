@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\user\desktop\pro-119\лаба 4\strins\strins\source.cpp(92): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\user\desktop\pro-119\лаба 4\strins\strins\source.cpp(92): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+c:\users\user\desktop\pro-119\лаба 4\strins\strins\source.cpp(110): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\user\desktop\pro-119\лаба 4\strins\strins\source.cpp(110): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+c:\users\user\desktop\pro-119\лаба 4\strins\strins\source.cpp(128): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\user\desktop\pro-119\лаба 4\strins\strins\source.cpp(128): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  strins.vcxproj -> C:\Users\user\Desktop\pro-119\лаба 4\strins\Debug\strins.exe

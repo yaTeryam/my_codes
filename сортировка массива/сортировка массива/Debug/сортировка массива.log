@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Ilya\Desktop\pro-119\сортировка массива\сортировка массива\Source.cpp(14,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Ilya\Desktop\pro-119\сортировка массива\сортировка массива\Source.cpp(54,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  сортировка массива.vcxproj -> C:\Users\Ilya\Desktop\pro-119\сортировка массива\Debug\сортировка массива.exe
